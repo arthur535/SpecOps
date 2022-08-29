@@ -14,4 +14,3 @@ int main() {
     std::cin >> x;
     std::cout << ht[x];
 }
-
