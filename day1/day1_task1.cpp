@@ -35,3 +35,4 @@ int main() {
     std::cout << dec_to_bin(decimal) << "\t" <<foo(ptr);
     return 0;
 }
+
