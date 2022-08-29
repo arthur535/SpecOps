@@ -47,3 +47,4 @@ int main() {
     foo(ptr);
     return 0;
 }
+
